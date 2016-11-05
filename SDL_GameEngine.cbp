@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SDL_GameEngine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/LazyFoo_TutSDL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/LazyFoo_TutSDL" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="bin/Release/" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add directory="C:/MinGW-DevLib/include" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf" />
+			<Add directory="C:/MinGW-DevLib/lib" />
+		</Linker>
+		<Unit filename="include/animation.h" />
+		<Unit filename="include/camera.h" />
+		<Unit filename="include/defs.h" />
+		<Unit filename="include/entity.h" />
+		<Unit filename="include/motion.h" />
+		<Unit filename="include/player.h" />
+		<Unit filename="include/prototypes.h" />
+		<Unit filename="include/random.h" />
+		<Unit filename="include/texture.h" />
+		<Unit filename="src/animation.cpp" />
+		<Unit filename="src/camera.cpp" />
+		<Unit filename="src/entity.cpp" />
+		<Unit filename="src/global.cpp" />
+		<Unit filename="src/init.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/media.cpp" />
+		<Unit filename="src/motion.cpp" />
+		<Unit filename="src/player.cpp" />
+		<Unit filename="src/random.cpp" />
+		<Unit filename="src/render.cpp" />
+		<Unit filename="src/texture.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

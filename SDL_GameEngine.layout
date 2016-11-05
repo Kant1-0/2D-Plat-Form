@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\texture.h" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2006" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="src\media.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1597" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\camera.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2399" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="include\random.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1019" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\player.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="931" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\random.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1160" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\defs.h" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1667" topLine="31" />
+		</Cursor>
+	</File>
+	<File name="src\global.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1689" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="include\motion.h" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1401" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="src\animation.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1526" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="src\entity.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2869" topLine="76" />
+		</Cursor>
+	</File>
+	<File name="include\entity.h" open="1" top="0" tabpos="32" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2271" topLine="36" />
+		</Cursor>
+	</File>
+	<File name="src\main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="389" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\texture.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5160" topLine="187" />
+		</Cursor>
+	</File>
+	<File name="src\init.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1922" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="src\motion.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1765" topLine="45" />
+		</Cursor>
+	</File>
+	<File name="src\render.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="265" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\player.h" open="1" top="0" tabpos="33" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="967" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="include\camera.h" open="1" top="0" tabpos="31" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1498" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\prototypes.h" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1111" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\animation.h" open="1" top="0" tabpos="30" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1046" topLine="0" />
+		</Cursor>
+	</File>
+	<EditorTabsLayout layout="0c7f5870581cdf1b0021f0e300000002=0;SDL_GameEngine:src\main.cpp,1;SDL_GameEngine:src\init.cpp,2;SDL_GameEngine:src\media.cpp,3;SDL_GameEngine:src\render.cpp,4;SDL_GameEngine:src\entity.cpp,5;SDL_GameEngine:src\motion.cpp,6;SDL_GameEngine:src\animation.cpp,7;SDL_GameEngine:src\texture.cpp,8;SDL_GameEngine:src\global.cpp,9;SDL_GameEngine:src\random.cpp|0c7f5cd8581cdf1b0021f10b00000003=+10;SDL_GameEngine:include\prototypes.h,11;SDL_GameEngine:include\defs.h,12;SDL_GameEngine:include\random.h,13;SDL_GameEngine:include\texture.h,14;SDL_GameEngine:include\motion.h,15;SDL_GameEngine:include\animation.h,16;SDL_GameEngine:include\camera.h,17;SDL_GameEngine:include\entity.h,18;SDL_GameEngine:include\player.h@layout2|name=dummy;caption=;state=2098174;dir=3;layer=0;row=0;pos=0;prop=100000;bestw=180;besth=180;minw=180;minh=180;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0c7f5870581cdf1b0021f0e300000002;caption=;state=2098172;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=200;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=0c7f5cd8581cdf1b0021f10b00000003;caption=;state=2098172;dir=2;layer=1;row=0;pos=0;prop=100000;bestw=854;besth=361;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(2,1,0)=887|dock_size(5,0,0)=202|" />
+</CodeBlocks_layout_file>
